@@ -1,4 +1,4 @@
-Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Species,Bad = 2,Mixed = 3,Good = 4
+Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Species
 Spy x Family ,Good,4.1,0.2,setosa,,,
 Spy x Family,Bad,2,0.2,setosa,,,
 Spy x Family,Mixed,3.5,0.2,setosa,,,
